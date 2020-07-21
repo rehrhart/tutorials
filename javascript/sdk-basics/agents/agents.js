@@ -48,7 +48,7 @@ const main = async () => {
 
   // Display new key.
   console.log('');
-  console.log(`Created New Key : ${createdKey.keyId}`);
+  console.log('Created New Key : ${createdKey.keyId}`);
 };
 
 main();
