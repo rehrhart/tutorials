@@ -5,7 +5,7 @@ description: Shows how to create, fetch, and update Machina keys.
 authors:
   - Ionic Security
 resources:
-  - javascript/consoleReroute.js
+  - https://api.ionic.com/jssdk/latest/libs/sdk.bundle.js
 ...
 */
 
